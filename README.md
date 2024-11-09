@@ -18,7 +18,7 @@ Does using a post-training pruning scheme from a model trained on one dataset as
 | MNIST         | 99.17%                                               | 96.46%                  |
 | FashionMNIST  | 92.57%                                               | 88.69%                  |
 
-### 3 epoch
+### 3 EpochS: Can our model converge very quickly?
 
 | Dataset       | Pruning at Init Accuracy (from MNIST post-training) | Random Pruning at Init Accuracy |
 |---------------|------------------------------------------------------|-------------------------|
