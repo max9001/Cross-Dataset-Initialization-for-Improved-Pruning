@@ -5,7 +5,7 @@ Does using a post-training pruning scheme from a model trained on one dataset as
 
 **Note**: Specific pruning was derived from post-training pruning of a model (magnitude-based global pruning) originally trained on MNIST, which had an accuracy of **99%** before pruning, & **96%** after.
 
-![Data Visualization](data_vis.png)
+![Data Visualization](data_visualization/data_vis.png)
 
 ***
 
